@@ -1,2 +1,3 @@
 # Aula-06-03-2026
-Trabalhando com Commit
+## Introdução aos comandos do git
+### git init - Comando paara iniciar um repositorio.
